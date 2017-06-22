@@ -137,10 +137,14 @@ h1 {
 .concept .section-texto {
   height: auto;
   float: left; }
+.concept .downImage {
+  margin-top: 106px; }
 .concept .concept-foto img {
   display: block; }
 .concept .section-texto {
   padding: 10px 57px; }
+  .concept .section-texto .margin-normal {
+    margin-top: 35px !important; }
   .concept .section-texto .sector {
     margin-top: 80px; }
   .concept .section-texto .revista-row {
@@ -148,8 +152,7 @@ h1 {
     .concept .section-texto .revista-row #revista {
       position: relative;
       height: 80px;
-      padding: 5px;
-      background-color: #305D91; }
+      padding: 5px; }
       .concept .section-texto .revista-row #revista a {
         position: absolute;
         z-index: 1;
